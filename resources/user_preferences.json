@@ -1,0 +1,32 @@
+{
+    "workspace_settings": {
+        "theme": "light",
+        "language": "en",
+        "autosave_interval": 5
+    },
+    "toolset_configurations": {
+        "default_tool": "pen",
+        "pen_size": 5,
+        "pen_color": "#000000",
+        "text_font": "Arial",
+        "text_size": 12
+    },
+    "project_settings": {
+        "frame_rate": 24,
+        "resolution": "1080p",
+        "aspect_ratio": "16:9"
+    },
+    "editor_preferences": {
+        "show_grid": true,
+        "snap_to_grid": false,
+        "show_rulers": true
+    },
+    "image_library_preferences": {
+        "sort_by": "date",
+        "view_mode": "grid"
+    },
+    "animatic_viewer_preferences": {
+        "playback_speed": 1,
+        "loop": false
+    }
+}
